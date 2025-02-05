@@ -1,0 +1,837 @@
+1 ：<span style="color:#009900">名無しさん＠おーぷん</span> ：2016/02/19(金)20:26:43 <span style="color:#FF0000">ID:yaruo</span>
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　 ／￣￣＼　　　　　　　　　　　　　 　 ＿　_　　　　　　　　　 　　　　　　　 ,ｰ､　　　＿＿　　　　,ｰ､
+　　　　　　　　　　　　　　　　　　　　　　　　／　　ノ　ヽ､＼　.　　　 　 　 　 　 , .:':{＠}:::..ヾ ヽ　　　　　　　 　　　　　　. / ﾍ 〉, -´ｰ･ー ､ ｀ヽ/ ﾍ 〉
+.　　　　　　　　　　　　　　　　　　　　　　　 |　　 （●）（●）| 　 　　 　 　 　 ／ ´ ~￣~ ｀ ヾ）└＼　　　　　 　 　　　　.〈〈.／: : : : : : i : : : ヽ〈〈 ⌒ヽ
+　　　　　　　　　　　　　　　　　　　　　　　. |　　　（＿人_）│.　　　　　　r.//, 'ハ　　ﾊiﾚ7,, ⌒::.､ヽ　　　　　　　　　　　i :/,: : : 人: : :ﾄ､: : : : : :゛　: : :.i
+　　　　　　　　　　 ＿＿＿_　　　　　　 　　| 　 　 ｀ ⌒´　 |　 　　　　 　 Ｌl ! {ー' ヽノ゛'`ーl/|　!:厶l　　　　　 　　　　　!〃: :／　.ヽ :!　 ヽ: : : : i、: : : |
+　　　　　　　　　／　　 　 　＼　　　　　 　 | 　 　 　 　 　 |　　　　 　 　 /Vi 小●　　　 ●　ﾉ ｌ下､_〕　　　　　　　 　　|ﾚ! / ●　　 ﾘ ● ﾙ: : !┐ : :　|
+　　　　　　　 ／　─　 　 ─　＼　　　　.　 ヽ　　　　　　/　　 　 　 　 　　 j||l⊃　､_,､_,　⊂⊃　i !__ﾄ　　　　　　　　　　|: Vl⊃　､_,､_,　⊂⊃::/ .」|: : : : }
+　　　　　　／ 　 （●） 　（●） 　＼　　　　　 ヽ　 　　　/ 　 　　　 　 /⌒ヽ__|ﾍ　　 ヽ._）　 　j /⌒i !＿ 　 　 　 　 /⌒ヽﾍ ﾍ　　 ゝ._）　 　j,./⌒i !: : : : i
+　　　　　　|　 　 　 （__人__）　　 　 |　　　　　　.> 　　　<　　　　　　　＼ /:::::|　l＞,､ __,　イァ/　 /│;; ::＼　　　　　＼ //:::＼＞,､ __,　イァ.i´⌒ヽ|: : : : :i
+　　　　　　＼　 　　 ｀ ⌒´　　　,／　　　　　 　|　　　　 |　　　　　　 　 /:::::/|　|:: :: ::{ 薔 }:{ﾍ､__∧ |⌒⌒　.　　　 　 //::::::::::/ ｀V{__}V´==.|::::/ 7.|: : : : : |
+　　　　　　／　　　　　ー‐　　　　＼　　　　 　 |　　　　 |　 　　　 　 　 ＼< ＼|:: :: :: ∨:::/ヾ::: :: > |　　　　　　　　　゛‐--　´　　 .ハ　　　 |ｰ-/　; : : : : ﾉ
+
+
+
+
+　　　　　　　　　　　　　　<span style="font-size:x-large;">やる夫とやらない夫がやる夫スレの登場人物を紹介するようですのまとめ</span>
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-──- 、　　　　　　　　＿＿＿＿＿
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／＿＿＿＿＿ ＼〟　　 ／/⌒ヽ ⌒ヽ　　｀＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |/⌒ヽ　⌒ヽヽ |　ヽ　　/　　|　 ＾ |＾　　|- 、　　ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　　/ | ヽ　 |─|　　ｌ　/／　 `ー ●ー′　 ＼ 　 ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/ ー ヘ　ー　′ ´＾V　/　　─　　|　　─　　　 ヽ　　ｉ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ｌ ＼　　　　／　　_丿　i　　 二 　 |　　二　　　　 |　　 |
+　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　＼　` ー ´　　／　　 .l　＼ 　 　 |　　　　 ／　　ｌ　　 !
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 >ー── く　　　　ヽ　 ＼　　|　　　／　 　 / 　 /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／ |／＼／　＼　　 　 ヽ　　￣￣￣　　　　 /　 /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｌ　 l　 　 　 　 |　 ｌ　　　　 >━━６━━━━━く
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ、|　 　 　 　 | ノ　　　　/　 く　　　　／　　　　 ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 |ー───j　　　　　 l 　 （⌒（⌒）　　／　　
+
+
+
+
+
+
+
+
+<blockquote><p>
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｽｲｾｲｾｷ　　　　　　　　　　　　　　　ｼﾝｸ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-519.html" target="_blank" title="その１">その１</a>　　　　やる夫（２ｃｈ）　　　　やらない夫（２ｃｈ）　　　　　翠星石（ローゼンメイデン）　　　　真紅（ローゼンメイデン）
+
+
+　　　　　　　　　　　　ｱﾍﾞﾀｶｶｽﾞ　　　　　　　　　　　　　　　　ﾏﾛ　　　　　　　ｲｽﾞﾐ　　　　　　　　　　　　　　　ﾋｲﾗｷﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-549.html" target="_blank" title="その２">その２</a>　　　　阿部高和（くそみそテクニック）　　　麻呂（２ｃｈ）　　　泉こなた（らき☆すた）　　　　柊かがみ（らき☆すた）
+
+
+　　　　　　　　　　　　ｲﾄｳﾏｺﾄ　　　　　　　　　　　　　ﾔｶﾞﾐﾗｲﾄ　　　　　　　　　　ﾅｶﾞﾄﾕｷ　　　　　　　　　　　　　　　　　ｱｻｸﾗﾘｮｳｺ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-595.html" target="_blank" title="その３">その３</a>　　　　伊藤誠（School　Days）　　　夜神月（デスノート）　　　長門有希（涼宮ハルヒの憂鬱）　　　　朝倉涼子（涼宮ハルヒの憂鬱）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｽｲｷﾞﾝﾄｳ　　　　　　　　　　　　　　ｿｳｾｲｾｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-632.html" target="_blank" title="その４">その４</a>　　　　ダディクール（２ｃｈ）　　　　でっていう（２ｃｈ）　　　　水銀燈（ローゼンメイデン）　　　　蒼星石（ローゼンメイデン）
+　　　　
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾘｭｳｸﾞｳ　　　　　　　　　　　　　 　　　　　　ｶﾂﾗｺﾄﾉﾊ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-718.html" target="_blank" title="その５">その５</a>　　　　できる夫（２ｃｈ）　　　　オプーナ（２ｃｈ）　　　　竜宮レナ（ひぐらしのなく頃に）　　　　桂言葉（School　Days）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｱｶｷﾞ　　　　　　　　　　　ｽｽﾞﾐﾔ　　　　　　　　　　　　　　　　　　　　ｱｻﾋﾅ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-752.html" target="_blank" title="その６">その６</a>　　　　ルルーシュ（コードギアス）　　　赤木シゲル（アカギ）　　　涼宮ハルヒ（涼宮ハルヒの憂鬱）　　　朝比奈みくる（涼宮ハルヒの憂鬱）
+
+
+　　　　　　　　　　　ｼﾝｼﾞｮｳﾅｵｴ　　　　　　　　　　　　ｻｸﾗﾀﾞ　　　　　　　　　　　　　　　　　　ﾋﾅｲﾁｺﾞ　　　　　　　　　　　　　　ｶﾅﾘｱ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1162.html" target="_blank" title="その７">その７</a>　　　　新城直衛（皇国の守護者）　　　桜田ジュン（ローゼンメイデン）　　　雛苺（ローゼンメイデン）　　　金糸雀（ローゼンメイデン）
+
+
+　　　　　　　　　　　　　　　ｷﾗｷｼｮｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1393.html" target="_blank" title="その８－１">その８－１</a>　　　　雪華結晶（ローゼンメイデン）
+
+
+　　　　　　　　　　　　　　ﾊﾞﾗｽｲｼｮｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1449.html" target="_blank" title="その８－２">その８－２</a>　　　　薔薇水晶（ローゼンメイデン）
+
+
+　　　　　　　　　　　　　　　　　　　　　
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1470.html" target="_blank" title="その８－３">その８－３</a>　　　　ラプラスの魔（ローゼンメイデン）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｺｲｽﾞﾐｲﾂｷ　　　　　　　　　　　　　　　　　　　　
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1429.html" target="_blank" title="その８・５">その８・５</a>　　　　キョン（涼宮ハルヒの憂鬱）　　　　古泉一樹（涼宮ハルヒの憂鬱）　　　　キョン子（涼宮ハルヒの憂鬱）
+
+
+　　　　　　　　　　　　ﾄﾈｶﾞﾜﾕｷｵ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1447.html" target="_blank" title="その９">その９</a>　　　　利根川幸雄（賭博黙示録カイジ）　　　　ＤＩＯ（ジョジョの奇妙な冒険）　　　　ホロ（狼と香辛料）　　　　できる子（２ｃｈ）
+
+
+　　　　　　　　　　　　ｲﾁｼﾞｮｳ　　　　　　　　　　　　　　ｸｻﾌﾞｴ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1448.html" target="_blank" title="その１０">その１０</a>　　　一条（賭博黙示録カイジ）　　　　草笛みつ（ローゼンメイデン）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1454.html" target="_blank" title="その１１">その１１</a>　　　ラオウ（北斗の拳）　　　　ヤン・ウェンリー（銀河英雄伝説）　　　　バラライカ（ブラックラグーン）　　　　アイギス（ペルソナ３）
+
+
+　　　　　　　　　　　　ﾅｶﾊﾗﾐｻｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1455.html" target="_blank" title="その１２">その１２</a>　　　中原岬（Ｎ・Ｈ・Ｋへようこそ！）
+
+
+　　　　　　　　　　　ｸｳｼﾞｮｳｼﾞｮｳﾀﾛｳ　　　　　　　　　　　　　　　　　ｻｲｵﾝｼﾞｾｶｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1456.html" target="_blank" title="その１３">その１３</a>　　　空条承太郎（ジョジョの奇妙な冒険）　　　　西園寺世界（School　Days）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｶﾒﾀﾞｻﾝｷｮｳﾀﾞｲ　　　　　　ｻｳｻﾞｰｾﾝｹﾝﾀｲ　　　　　　　　　　　ｲｹﾀﾞﾊﾅ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1457.html" target="_blank" title="その１４">その１４</a>　　　ヤムチャ（ドラゴンボール）　　　　亀Ｄ三兄弟（２ｃｈ）　　　　聖帝先遣隊（北斗の拳）　　　　池田華菜（咲）
+
+
+　　　　　　　　　　　ｶｲﾁｭｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1462.html" target="_blank" title="その１５">その１５</a>　　　懐中コオロギ（やる夫短編集管理人）
+
+
+　　　　　　　　　　　ｴﾙ　　　　　　　　　ﾋｶﾞｼｶﾀｼﾞｮｳｽｹ　　　　　　　　　　　　　　　ﾏｽﾀｰｱｼﾞｱ　　　　　　　　　　　　　　　　　　ｲｻﾞﾖｲｻｸﾔ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1463.html" target="_blank" title="その１６">その１６</a>　　　Ｌ（デスノート）　　　東方杖助（ジョジョの奇妙な冒険）　　　東方不敗（機動武道伝Ｇガンダム）　　　十六夜咲夜（東方Project）
+
+
+　　　　　　　　　　　　ｲﾄｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1464.html" target="_blank" title="その１７">その１７</a>　　　伊藤カイジ（賭博黙示録カイジ）　　　　アミバ（北斗の拳）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1465.html" target="_blank" title="その１８">その１８</a>　　　セイバー　　　　ライダー　　　　アーチャー　　　　ギルガメッシュ（Fate/staynight）
+
+
+　　　　　　　　　　　　ﾍｲ　　　　　　　　　　　　　　　　　　　ｲﾝ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1466.html" target="_blank" title="その１９">その１９</a>　　　黒（Ｄａｒｋｅｒ　Ｔｈａｎ　Ｂｌａｃｋ）　　　　銀（Ｄａｒｋｅｒ　Ｔｈａｎ　Ｂｌａｃｋ）
+
+
+　　　　　　　　　　ﾅﾙﾎﾄﾞｳﾘｭｳｲﾁ　　　　　　　　　　　ｹﾝｶﾞｸｶｲ　　　　　　　　　　　ｹﾝｶﾞｸｶｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1467.html" target="_blank" title="その２０">その２０</a>　　　成歩堂龍一（逆転裁判）　　　　見学会いく夫（２ｃｈ）　　　　見学会めぐる（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1468.html" target="_blank" title="その２１">その２１</a>　　　シャア・アズナブル（機動戦士ガンダム）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1469.html" target="_blank" title="その２２">その２２</a>　　　シャア・アズナブル（機動戦士ガンダム）　　　　アムロ・レイ（機動戦士ガンダム）
+
+
+　　　　　　　　　　　ﾏｴﾊﾗｹｲｲﾁ　　　　　　　　　　　　　　　　ﾀﾆｸﾞﾁ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1475.html" target="_blank" title="その２３">その２３</a>　　　前原圭一（ひぐらしのなく頃に）　　　　谷口（涼宮ハルヒの憂鬱）　　　　キバヤシ（ＭＭＲ）
+
+
+　　　　　　　　　　　　ﾔｸﾓﾕｶﾘ　　　ﾊｸﾚｲﾚｲﾑ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1476.html" target="_blank" title="その２４">その２４</a>　　　八雲紫　　　　博麗霊夢（東方Project）
+
+
+　　　　　　　　　　　　ｶｻﾞﾐﾕｳｶ　　　ｲﾇﾊﾞｼﾘﾓﾐｼﾞ　　　ｷﾘｻﾒﾏﾘｻ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1477.html" target="_blank" title="その２５">その２５</a>　　　風見幽香　　　　犬走椛　　　　霧雨魔理沙 （東方Project）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1478.html" target="_blank" title="その２６">その２６</a>　　　バスク・オム　　　　ジャマイカン　　　　ヤザン　　　　ジェリド・メサ　　　　パプティマス・シロッコ（機動戦士Ｚガンダム）
+
+
+　　　　　　　　　　　　　　　　　　　　　　ﾉﾋﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1479.html" target="_blank" title="その２７">その２７</a>　　　ドラえもん　　　　野比のび太（ドラえもん)
+
+
+　　　　　　　　　　　　ｻｶﾀｷﾞﾝﾄｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1480.html" target="_blank" title="その２８">その２８</a>　　　坂田銀時（銀魂）　　　　グラハム・エーカー（機動戦士ガンダム００）
+
+
+　　　　　　　　　　　　　　　ﾏﾀﾞｵ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1483.html" target="_blank" title="その２８・５">その２８・５</a>　　　長谷川泰三（銀魂）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1481.html" target="_blank" title="その２９">その２９</a>　　　ギャル夫（２ｃｈ）　　　　ギャラナイ夫（２ｃｈ）
+
+
+　　　　　　　　　　　　ﾉﾋﾞ　　　　　　　　　　　　　　　　　ﾀｶﾗ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1482.html" target="_blank" title="その３０">その３０</a>　　　野比のび太（ドラえもん）　　　　高良みゆき（らき☆すた）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1484.html" target="_blank" title="その３１">その３１</a>　　　ベジータ（ドラゴンボール）　　　　ラインハルト・フォン・ローエングラム（銀河英雄伝説）
+
+
+　　　　　　　　　　　　　　　　　　　ｼﾞｭｳｼｮｸ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1485.html" target="_blank" title="その３２">その３２</a>　　　ジュウシマツ住職（２ｃｈ）　　　　インコ（２ｃｈ）　　　ラスカル（２ｃｈ）　　　　やらない子（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1486.html" target="_blank" title="その３３">その３３</a>　　　ちゅるオプーナ（２ｃｈ）　　　　真オプーナ（オプーナ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1500.html" target="_blank" title="その３４">その３４</a>　　　チルノ（東方Project）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1501.html" target="_blank" title="その３５">その３５</a>　　　マザーファッカーdo夫（２ｃｈ）　　　　サマーソルト・タメマチ・dont夫（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1502.html" target="_blank" title="その３６">その３６</a>　　　ちゅるやさん（にょろ～んちゅるやさん）　　　　ゆっくりしていってね（東方Project）
+
+
+　　　　　　　　　　　　ｲｶﾘ　　　　　　　ｲｶﾘ　　　　　　　　ｱﾔﾅﾐ　　　　　　ｿｳﾘｭｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1503.html" target="_blank" title="その３７">その３７</a>　　　碇シンジ　　　　碇ゲンドウ　　　　綾波レイ　　　　惣流・アスカ・ラングレー （新世紀エヴァンゲリオン）
+
+
+　　　　　　　　　　　　ｸﾛｶﾞﾈｵﾄﾒ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1504.html" target="_blank" title="その３８">その３８</a>　　　鉄乙女（つよきす）
+
+
+　　　　　　　　　　　　ﾄﾐﾀｹ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1505.html" target="_blank" title="その３９">その３９</a>　　　富竹ジロウ（ひぐらしのなく頃に）　　　　ムスカ（天空の城ラピュタ）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾏｴﾊﾗｹｲｲﾁ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1506.html" target="_blank" title="その４０－１">その４０－１</a>　　　キラ・ヤマト（機動戦士ガンダムＳＥＥＤ）　　　カズマ（スクライド）　　　前原圭一（ひぐらしのなく頃に）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1518.html" target="_blank" title="その４０－２">その４０－２</a>　　　キラ・ヤマト（機動戦士ガンダムＳＥＥＤ）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾐﾅﾐﾁｱｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1507.html" target="_blank" title="その４１">その４１</a>　　　　カズマ（スクライド）　　　　南千秋（みなみけ）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾐﾁｼﾀﾏｻｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1508.html" target="_blank" title="その４２">その４２</a>　　　ヌケドナノレド（２ｃｈ）　　　　ブラックジャック（ブラックジャック）　　　　道下正樹（くそみそテクニック）
+
+
+　　　　　　　　　　　　ﾀｶﾏﾁ　　　　　　　　　　　　　　　　　　ﾔｶﾞﾐ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1516.html" target="_blank" title="その４３">その４３</a>　　　高町なのは（リリカルなのは）　　　　八神はやて（リリカルなのは）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1517.html" target="_blank" title="その４４">その４４</a>　　　ナイトブレイザー（ワイルドアームズ２）
+
+
+　　　　　　　　　　　　ﾀﾞｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1519.html" target="_blank" title="その４５">その４５</a>　　　大ちゃん（２ｃｈ・横浜ベイスターズ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1520.html" target="_blank" title="その４５・５">その４５・５</a>　　　フリーザ（ドラゴンボール）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1521.html" target="_blank" title="その４６">その４６</a>　　　バックベアード（ゲゲゲの鬼太郎）　　　ベア子（２ｃｈ）　　　１００１（２ｃｈ・中日ドラゴンズ）
+
+
+　　　　　　　　　　　　ｱｶﾂﾞﾂﾐ　　　　　　ｺﾞｳﾄｸｼﾞ　　　　　　　ﾏﾂﾊﾞﾗ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1522.html" target="_blank" title="その４７">その４７</a>　　　赤堤もも子　　　　豪徳寺みやこ　　　　松原かおる（パワーパフガールズZ)　　　　ロールシャッハ（ウォッチメン）
+
+
+　　　　　　　　　　　　ﾊﾝﾏﾕｳｼﾞﾛｳ　　　　　　　　　　　　　　　ﾚﾂｶｲｵｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1523.html" target="_blank" title="その４８">その４８</a>　　　範馬勇次郎（グラップラー刃牙）　　　　烈海王（グラップラー刃牙）
+
+
+　　　　　　　　　　　ｼｰﾂｰ　　　ｺｳﾂﾞｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1524.html" target="_blank" title="その４９">その４９</a>　　　CC　　　　紅月カレン（コードギアス）
+
+
+　　　　　　　　　　　　ｻｻｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1525.html" target="_blank" title="その５０">その５０</a>　　　佐々木（涼宮ハルヒの憂鬱）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾋｲﾗｷﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1526.html" target="_blank" title="その５１">その５１</a>　　　キル夫（２ｃｈ）　　　キル子（２ｃｈ）　　　柊つかさ（らき☆すた）
+
+
+　　　　　　　　　　　　　　ｿﾞｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1527.html" target="_blank" title="その５２">その５２</a>　　　やる蔵（２ｃｈ）　　　やってられっか夫（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1538.html" target="_blank" title="その５３">その５３</a>　　　シン・アスカ（機動戦士ガンダムSEED・DESTINY）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1539.html" target="_blank" title="その５４">その５４</a>　　　ナギ（かんなぎ）
+
+
+　　　　　　　　　　　　ｼﾊﾞｻｷﾓﾄﾊﾙ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1540.html" target="_blank" title="その５５">その５５</a>　　　柴崎元治（ローゼンメイデン）　　　　ジャギ（北斗の拳）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1541.html" target="_blank" title="その５６">その５６</a>　　　アスラン・ザラ（機動戦士ガンダムSEED）　　　　アグリアス・オークス（ファイナルファンタジー・タクティクス）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1542.html" target="_blank" title="その５７">その５７</a>　　　ストレイト・クーガー（スクライド）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾊﾆｭｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1543.html" target="_blank" title="その５８">その５８</a>　　　アレクサンド・アンデルセン（ヘルシング）　　　　羽入（ひぐらしのなく頃に）
+
+　　　　　　　　　　　　ﾄｵｻｶﾘﾝ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1544.html" target="_blank" title="その５９">その５９</a>　　　遠坂凛（Fate/Staynight）　　　　ブーム君（２ｃｈ）
+
+
+　　　　　　　　　　　　ｷｸﾁﾏｺﾄ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1545.html" target="_blank" title="その６０">その６０</a>　　　菊地真（アイドルマスター）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1546.html" target="_blank" title="その６１">その６１</a>　　　ショボン（２ｃｈ）
+
+
+　　　　　　　　　　　ﾅﾝｾﾝｾｷ　　ﾎｸｾﾝｾｷ　　　ｼﾅｲﾁｺﾞ　　　　　　　　　ﾄｳ　　　ﾓｳｺ　　　ﾀﾛｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1547.html" target="_blank" title="その６２">その６２</a>　　　南鮮石　　　北鮮石　　　支那苺　　　ジャナリス灯　　　蒙古　　　太郎（チョーセンメイデン・２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1572.html" target="_blank" title="その６３">その６３</a>　　　やる実（２ｃｈ）　　　　できない子（２ｃｈ）
+
+
+　　　　　　　　　　　　ﾊﾂﾈ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1573.html" target="_blank" title="その６４">その６４</a>　　　初音ミク（Ｖｏｃａｌｏｉｄ）
+
+
+　　　　　　　　　　　　ﾔｸﾞﾙﾏｿｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1574.html" target="_blank" title="その６５">その６５</a>　　　矢車想（仮面ライダーカブト）
+
+
+　　　　　　　　　　　　　　　ｵｵﾔ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1575.html" target="_blank" title="その６６">その６６</a>　　　やる大矢（２ｃｈ・横浜ベイスターズ）
+
+
+　　　　　　　　　　　　ﾒｸﾞﾘﾈ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1576.html" target="_blank" title="その６７">その６７</a>　　　巡音ルカ（Ｖｏｃａｌｏｉｄ）
+
+
+　　　　　　　　　　　　ﾅｶﾑﾗﾉﾘﾋﾛ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1585.html" target="_blank" title="その６８">その６８</a>　　　中村紀洋（プロ野球）
+
+
+　　　　　　　　　　　　ｶｲﾊﾞﾗﾕｳｻﾞﾝ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1586.html" target="_blank" title="その６９">その６９</a>　　　海原雄山（美味しんぼ）
+
+
+　　　　　　　　　　　　　　　　　ﾄｳｺﾞｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1587.html" target="_blank" title="その７０">その７０</a>　　　デューク東郷（ゴルゴ１３）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｶﾐｼﾗｻﾜｹｲﾈ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1588.html" target="_blank" title="その７１">その７１</a>　　　アリス・マーガトロイド　　　　上白沢慧音（東方Ｐｒｏｊｅｃｔ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html" target="_blank" title="その７２">その７２</a>　　　ポケモン（ポケットモンスター）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1590.html" target="_blank" title="その７３">その７３</a>　　　キモオタ（２ｃｈ）
+
+
+　　　　　　　　　　　　ｺﾞﾄｳｷｲﾁ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1598.html" target="_blank" title="その７４">その７４</a>　　　後藤喜一（機動警察パトレイバー）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1599.html" target="_blank" title="その７５">その７５</a>　　　ギレン・ザビ　　　　ドズル・ザビ（機動戦士ガンダム）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1600.html" target="_blank" title="その７６">その７６</a>　　　クマー（２ｃｈ）　　　　キングクリムゾン（ジョジョの奇妙な冒険）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1601.html" target="_blank" title="その７７">その７７</a>　　　ねこ夫（２ｃｈ）　　　　やる夫の母（２ｃｈ）
+
+
+　　　　　　　　　　　　ﾏﾛｼｹﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1602.html" target="_blank" title="その７８">その７８</a>　　　麻呂重（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1615.html" target="_blank" title="その７９">その７９</a>　　　フェイト・Ｔ・ハラオウン（リリカルなのは）
+
+
+　　　　　　　　　　　　ﾐｽﾐ　　　　　　　　ﾕｷｼﾛ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1616.html" target="_blank" title="その８０">その８０</a>　　　美墨なぎさ　　　　雪城ほのか（２人はプリキュア）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1617.html" target="_blank" title="その８１">その８１</a>　　　ガッツ（ベルセルク）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1618.html" target="_blank" title="その８２">その８２</a>　　　きめぇ夫（２ｃｈ）
+
+
+　　　　　　　　　　　　ｵｵｻｶ　　　　　ﾐﾊﾏ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1626.html" target="_blank" title="その８３">その８３</a>　　　春日歩　　　　美浜ちよ（あずまんが大王）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｻﾜﾅｶﾞﾀｲｽｹ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1627.html" target="_blank" title="その８４">その８４</a>　　　ロベルタ（ブラックラグーン）　　　　澤永泰介（Ｓｃｈｏｏｌ　Ｄａｙｓ）
+
+
+　　　　　　　　　　　　ｶｷｻﾞｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1628.html" target="_blank" title="その８５">その８５</a>　　　柿崎めぐ（ローゼンメイデン）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｺｽﾓｽ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1629.html" target="_blank" title="その８６">その８６</a>　　　ラクス・クライン（機動戦士ガンダムＳＥＥＤ）　　　　ＫＯＳ－ＭＯＳ（ゼノサーガ）
+
+
+　　　　　　　　　　　　　　ｻﾞﾜｼﾝｲﾁ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1630.html" target="_blank" title="その８７">その８７</a>　　　メカ沢新一（魁！クロマティ高校）　　　　シモン　　　　カミナ（天元突破グレンラガン）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1643.html" target="_blank" title="その８８">その８８</a>　　　アバン・デ・ジュニアールⅢ世　　　ポップ　　　ヒュンケル　　　ダイ（ＤＲＡＧＯＮ　ＱＵＥＳＴ　ダイの大冒険）
+
+
+　　　　　　　　　　　　　　　　　　　　　　ｼｮｳｻ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1644.html" target="_blank" title="その８９">その８９</a>　　　アーカード　　　　少佐（ヘルシング）
+
+
+　　　　　　　　　　　　ｳﾒｵｶ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1645.html" target="_blank" title="その９０">その９０</a>　　　梅岡（ローゼンメイデン）
+
+
+　　　　　　　　　　　ｱﾝｻﾞｲｾﾝｾｲ　　　ｾﾝﾄﾞｳｱｷﾗ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1646.html" target="_blank" title="その９１">その９１</a>　　　安西先生　　　　仙道彰（スラムダンク）
+
+
+　　　　　　　　　　　　ｲﾄｼｷﾉｿﾞﾑ　　　　　ｷﾂﾁﾘ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1647.html" target="_blank" title="その９２">その９２</a>　　　糸色　望　　　　　木津千里（さよなら絶望先生）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｼｮｺﾞｳｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1660.html" target="_blank" title="その９３">その９３</a>　　　ＲＸ－７８ガンダム（機動戦士ガンダム）　　　エヴァンゲリオン初号機（新世紀エヴァンゲリオン）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1661.html" target="_blank" title="その９４">その９４</a>　　　ジョセフ・ジョースター（ジョジョの奇妙な冒険）
+
+
+　　　　　　　　　　　　ﾋﾗｻﾜﾕｲ　　ｱｷﾔﾏﾐｵ　　　ﾀｲﾅｶﾘﾂ　　　　ｺﾄﾌﾞｷﾂﾑｷﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1662.html" target="_blank" title="その９５">その９５</a>　　　平沢 唯　　　秋山 澪　　　田井中 律　　　琴吹 紬（けいおん！）
+
+
+　　　　　　　　　　　　ﾉｳｶﾞﾐ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1663.html" target="_blank" title="その９６">その９６</a>　　　脳噛ネウロ（魔人探偵脳噛ネウロ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1664.html" target="_blank" title="その９７">その９７</a>　　　やらないのか夫（２ｃｈ）　　　ロビンマスク（キン肉マン）
+
+
+　　　　　　　　　　　　ｿﾝｺﾞｸｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1669.html" target="_blank" title="その９８">その９８</a>　　　孫悟空（ドラゴンボール）
+
+
+　　　　　　　　　　　　ﾀｲｺｳﾎﾞｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1670.html" target="_blank" title="その９９">その９９</a>　　　太公望（封神演義）
+
+
+　　　　　　　　　　　　ｻｽｶﾞｷｮｳﾀﾞｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1671.html" target="_blank" title="その１００">その１００</a>　　流石兄弟（２ｃｈ）
+
+
+　　　　　　　　　　　　　ｸﾛﾌｸ　　　　　　　　　　　　　　ﾔﾏｵｶｼﾛｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1681.html" target="_blank" title="その１０１">その１０１</a>　　　黒服（福本伸行作品）　　　　山岡士郎（美味しんぼ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1682.html" target="_blank" title="その１０２">その１０２</a>　　　カイン・ハイウィンド（ファイナルファンタジー４）
+
+
+　　　　　　　　　　　　　　ｼﾞｬｲｱﾝ　　　　　ﾎﾈｶﾜ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1683.html" target="_blank" title="その１０３">その１０３</a>　　　剛田たけし　　　　骨川スネ夫（ドラえもん）
+
+
+　　　　　　　　　　　　　　　　　　ｾﾝﾆﾝｸﾞﾝｿｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1684.html" target="_blank" title="その１０４">その１０４</a>　　　ハートマン先任軍曹　　　　ドアガンナー　　　　ローレンス（フルメタルジャケット）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　ﾋｲﾗｷﾞﾚﾝｼﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1685.html" target="_blank" title="その１０５">その１０５</a>　　　アンゼロット　　　　柊蓮司　　　　ベール＝ゼファー（ナイトウィザード）
+
+
+　　　　　　　　　　　　　ﾉｳｶﾞﾐ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1694.html" target="_blank" title="その１０６">その１０６</a>　　　脳噛ネウロ　　　　シックス（魔人探偵脳噛ネウロ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1695.html" target="_blank" title="その１０７">その１０７</a>　　　ペンタゴン　　　　ブラックホール（キン肉マン）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1696.html" target="_blank" title="その１０８">その１０８</a>　　　ドモン・カッシュ（機動武闘伝Gガンダム）　　　　ハイドリッヒ・ラング（銀河英雄伝説）
+
+
+　　　　　　　　　　　　　ﾌｼﾞﾉｼｽﾞﾙ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1698.html" target="_blank" title="その１０９">その１０９</a>　　　藤乃静留（舞HIME）
+
+
+　　　　　　　　　　　　　ﾐﾂｶｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1713.html" target="_blank" title="その１１０">その１１０</a>　　　三塚井ドクロ（撲殺天使ドクロちゃん）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1714.html" target="_blank" title="その１１１">その１１１</a>　　　ウルトラマン（ウルトラマン）
+
+
+　　　　　　　　　　　　　ｿﾉｻﾞｷﾐｵﾝ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1715.html" target="_blank" title="その１１２">その１１２</a>　　　園崎魅音（ひぐらしのなく頃に）
+
+
+　　　　　　　　　　　　　ｸﾏｾﾝｾｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1716.html" target="_blank" title="その１１３">その１１３</a>　　　熊先生（俺の先生）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1717.html" target="_blank" title="その１１４">その１１４</a>　　　しぃ（２ｃｈ）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾐﾂﾙｷﾞﾚｲｼﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1718.html" target="_blank" title="その１１５">その１１５</a>　　　ケンシロウ（北斗の拳）　　　　御剣怜侍（逆転裁判）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1719.html" target="_blank" title="その１１６">その１１６</a>　　　外人４コマ（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1720.html" target="_blank" title="その１１７">その１１７</a>　　　トマル　　　　イケダ　　　　ナワヤ　　　　タナカ（MMR）　　　　外人４コマ（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1724.html" target="_blank" title="その１１８">その１１８</a>　　　ジャン・ピエール・ポルナレフ（ジョジョの奇妙な冒険）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1725.html" target="_blank" title="その１１８＋α">その１１８＋α</a>　　　ジャン・ピエール・ポルナレフ（ジョジョの奇妙な冒険）
+
+
+　　　　　　　　　　　　　ｶｷｮｳｲﾝﾉﾘｱｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1726.html" target="_blank" title="その１１９">その１１９</a>　　　花京院典明（ジョジョの奇妙な冒険）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1727.html" target="_blank" title="その１２０">その１２０</a>　　　タバサ（ゼロの使い魔）　　　　ホシノ・ルリ（機動戦艦ナデシコ）
+
+
+　　　　　　　　　　　　　ｾﾂﾅ　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾂﾑﾗﾄｷｺ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1728.html" target="_blank" title="その１２１">その１２１</a>　　　刹那・F・セイエイ（機動戦士ガンダム００）　　　　津村斗貴子（武装錬金）
+
+
+　　　　　　　　　　　　　ﾅｶﾉｱｽﾞｻ　　　　　　　　　　　ﾋﾑﾛｶﾈ　　　　　　　　　　　　　　　　ﾐｻｶﾐｺﾄ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1729.html" target="_blank" title="その１２２">その１２２</a>　　　中野梓（けいおん！）　　　　氷室鐘（Fate/StayNight）　　　　御坂美琴（とある魔術の禁書目録）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　ｼﾞｹﾞﾝﾀﾞｲｽｹ　　　　ｲｼｶﾜｺﾞｴﾓﾝ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1730.html" target="_blank" title="その１２３">その１２３</a>　　　ルパンⅢ世　　　　次元大介　　　　石川五ェ門（ルパンⅢ世）
+
+
+　　　　　　　　　　　　　ﾂﾎﾞｳﾁﾁﾀﾝ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1769.html" target="_blank" title="その１２４">その１２４</a>　　　坪内地丹（かってに改蔵）
+
+
+　　　　　　　　　　　　ｼｮｶﾂﾘｮｳ　ｺｳﾒｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html" target="_blank" title="その１２５">その１２５</a>　　　諸葛亮　孔明（横山光輝三国志）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1771.html" target="_blank" title="その１２６">その１２６</a>　　　モナー　　ギコ猫　　モララー　　ニダー　　フーン　　八頭身　　ジサクジエン　　フサギコ　　ニラ茶猫　　タカラギコ
+
+　　　　　　　　　　　　　クックル　　激しく忍者　　ヒッキー　　ぃょぅ　　ぞぬ（２ｃｈ）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾍﾝﾀｲｶﾒﾝ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1772.html" target="_blank" title="その１２７">その１２７</a>　　　オメガ（ファイナルファンタジ－５）　　　変態仮面（究極！変態仮面）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1821.html" target="_blank" title="その１２８">その１２８</a>　　　アル夫　　　アル奈（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1822.html" target="_blank" title="その１２９">その１２９</a>　　　葉っぱおわりＡＡ（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1823.html" target="_blank" title="その１３０">その１３０</a>　　　キル子（２ｃｈ）　　　しんりゅう（ファイナルファンタジー５）
+
+
+　　　　　　　　　　　　　ｴﾀﾞｼﾞﾏﾍｲﾊﾁ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1824.html" target="_blank" title="その１３１">その１３１</a>　　　江田島平八（魁！男塾）　　　そこに痺れるあこがれるぅ（ジョジョの奇妙な冒険）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1825.html" target="_blank" title="その１３２">その１３２</a>　　　ダディクール（２ｃｈ）
+
+
+　　　　　　　　　　　　　ﾋﾗｻﾜｳｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1836.html" target="_blank" title="その１３３">その１３３</a>　　　平沢憂（けいおん！）
+
+
+　　　　　　　　　　　　　ｺﾊﾞﾔｶﾜ　　　　　　　ｲﾜｻｷ　　　　　　　ｸﾛｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1837.html" target="_blank" title="その１３４">その１３４</a>　　　小早川ゆたか　　　岩崎みなみ　　　黒井ななこ（らき☆すた）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｷﾗﾖｼｶｹﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1840.html" target="_blank" title="その１３５">その１３５</a>　　　ジョルノ・ジョバァーナ　　　吉良吉影（ジョジョの奇妙な冒険）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1858.html" target="_blank" title="その１３６">その１３６</a>　　　カーネノレ・サンダース（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1877.html" target="_blank" title="その１３７">その１３７</a>　　　天のゼオライマー（冥王計画ゼオライマー）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1894.html" target="_blank" title="その１３８">その１３８</a>　　　公園のトイレ（くそみそテクニック）
+
+
+　　　　　　　　　　　　　ﾊﾔﾐ　ｱﾂｼ　　　　ｼﾊﾞﾑﾗ　ﾏｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1901.html" target="_blank" title="その１３９">その１３９</a>　　　速水　厚志　　　　芝村　舞（高機動幻想ガンパレードマーチ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1905.html" target="_blank" title="その１４０">その１４０</a>　　　ギーク（ＭＯＴＨＥＲ）
+
+
+　　　　　　　　　　　　　ｺｶﾞﾐ　　　　　　　　ｼﾗｲｼ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1906.html" target="_blank" title="その１４１">その１４１</a>　　　小神　あきら　　　白石　みのる（らき☆すた）
+
+
+　　　　　　　　　　　　　ﾅｷﾞｻ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1920.html" target="_blank" title="その１４２">その１４２</a>　　　渚カヲル（新世紀エヴァンゲリヲン）
+
+
+　　　　　　　　　　　ｾﾞﾝｷﾞｮｳ　ﾀﾀﾞﾀｶ　　　　　　ｼﾊﾞﾑﾗｼﾞｭﾝﾘｭｳｼ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1921.html" target="_blank" title="その１４３">その１４３</a>　　　善行　忠孝　　　　　　　芝村準竜師（高機動幻想ガンパレードマーチ）
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｻﾔ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1922.html" target="_blank" title="その１４４">その１４４</a>　　　イリヤスフィール・フォン・アインツベルン（Ｆａｔｅ／Ｓｔａｙｎｉｇｈｔ）　　　　沙耶（沙耶の唄）
+
+
+　　　　　　　　　　　　　ｽｲｾｲｵ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1994.html" target="_blank" title="その１４５">その１４５</a>　　　翠星夫（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2003.html" target="_blank" title="その１４６">その１４６</a>　　　仮面ライダーブレイド（仮面ライダー剣）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2016.html" target="_blank" title="その１４６－２">その１４６－２</a>　　　仮面ライダーブレイド（仮面ライダー剣）
+
+
+　　　　　　　　　　　　ｻｲｷﾞｮｳｼﾞ　ﾕｳﾕｳｺ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2014.html" target="_blank" title="その１４７">その１４７</a>　　　西行寺　幽々子（東方Ｐｒｏｊｅｃｔ）
+
+
+　　　　　　　　　　　　　ﾏｴﾀﾞ　ｹｲｼﾞ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2015.html" target="_blank" title="その１４８">その１４８</a>　　　前田　慶次（花の慶次）
+
+
+　　　　　　　　　　　　　ﾌﾙﾃﾞ　ﾘｶ　　　　　ﾎｳｼﾞｮｳ　ｻﾄｺ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2017.html" target="_blank" title="その１４９">その１４９</a>　　　古手　梨花　　　　北条　沙都子（ひぐらしのなく頃に）
+
+
+　　　　　　　　　　　　　ｶｶﾞﾐﾈ　　　　　　ｶｶﾞﾐﾈ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2018.html" target="_blank" title="その１５０">その１５０</a>　　　鏡音リン　　　　鏡音レン（ＶＯＣＡＬＯＩＤ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2031.html" target="_blank" title="その１５１">その１５１</a>　　　レーツェル・ファインシュメッカー（スーパーロボット大戦シリーズ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2032.html" target="_blank" title="その１５２">その１５２</a>　　　ナナリー・ランペルージ（コードギアス）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2033.html" target="_blank" title="その１５３">その１５３</a>　　　海のリハク（北斗の拳）
+
+
+　　　　　　　　　　　　　ﾌﾙﾀﾁ　ｲﾁﾛｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2044.html" target="_blank" title="その１５４">その１５４</a>　　　古舘　伊知郎　　　　騒音おばさん（２ｃｈ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2045.html" target="_blank" title="その１５５">その１５５</a>　　　ケロロ軍曹（ケロロ軍曹）
+
+
+　　　　　　　　　　　　　ｻｶｻﾞｷﾐｺｺ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2107.html" target="_blank" title="その１５６">その１５６</a>　　　坂崎美心（賭博黙示録カイジ）
+
+
+　　　　　　　　　　　　　　ｺｲﾜｲ　　　　　　　　　　　　　　　　ﾀｶﾉ　　ﾐﾖ　　　　　　　　　　　　　　　　　　ﾂﾙﾔ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2112.html" target="_blank" title="その１５７">その１５７</a>　　　小岩井よつば（よつばと！）　　　　鷹野　三四（ひぐらしのなく頃に）　　　　鶴屋さん（涼宮ハルヒの憂鬱）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html" target="_blank" title="その１５８">その１５８</a>　　　できない夫（２ｃｈ）
+
+
+　　　　　　　　　　　　　ｶﾜｿﾞｴ　ﾀﾏｷ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2114.html" target="_blank" title="その１５９">その１５９</a>　　　川添　珠姫（バンブーブレード）　　　　ジョージ・ジョースターⅠ世（ジョジョの奇妙な冒険）
+
+
+　　　　　　　　　　　　　ｼｺﾝｺﾞｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2142.html" target="_blank" title="その１６０">その１６０</a>　　　士魂号（ガンパレードマーチ）
+
+
+　　　　　　　　　　　　　ﾋｮｳﾄﾞｳ　ｶｽﾞﾀｶ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2152.html" target="_blank" title="その１６１">その１６１</a>　　　兵頭　和尊（賭博黙示録カイジ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2188.html" target="_blank" title="その１６２">その１６２</a>　　　アグネス（２ｃｈ）
+
+
+　　　　　　　　　　　　　ﾖﾜﾈ　　　　　　　ｶｻﾈ　　　　　　 ｱｷﾀ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2235.html" target="_blank" title="その１６３">その１６３</a>　　　弱音ハク　　　　重音テト　　　　亜北ネル（Ｖｏｃａｌｏｉｄ）
+
+
+　　　　　　　　　　　　　　ｶｲﾄ　　　　　　ﾒｲｺ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2324.html" target="_blank" title="その１６４">その１６４</a>　　　ＫＡＩＴＯ　　　　ＭＥＩＣＯ（Ｖｏｃａｌｏｉｄ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2325.html" target="_blank" title="その１６５">その１６５</a>　　　仮面ライダーイクサ（仮面ライダーキバ）　　　仮面ライダーディケイド（仮面ライダーディケイド）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2348.html" target="_blank" title="その１６６">その１６６</a>　　　ねらう夫（２ｃｈ）　　　　マリオ（スーパーマリオブラザーズ）
+
+
+　　　　　　　　　　　　 ｼｬﾒｲﾏﾙ　ｱﾔ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2357.html" target="_blank" title="その１６７">その１６７</a>　　　射命丸　文（東方Ｐｒｏｊｅｃｔ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2358.html" target="_blank" title="その１６８">その１６８</a>　　　仮面ライダークウガ（仮面ライダークウガ）
+
+
+　　　　　　　　　　　　 ｻｲｷﾞｮｳｼﾞ　ﾕｳﾕｳｺ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2426.html" target="_blank" title="その１６９">その１６９</a>　　　西行寺　幽々子（東方Ｐｒｏｊｅｃｔ）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2427.html" target="_blank" title="その１７０">その１７０</a>　　　ナージャ（明日のナージャ）
+
+
+　　　　　　　　　　　　　ｻｶﾓﾄ　ﾐｵ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html" target="_blank" title="その１７１">その１７１</a>　　　坂本　美緒（ストライクウィッチーズ）
+
+
+　　　　　　　　　　　　　ﾊﾄﾔﾏ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2429.html" target="_blank" title="その１７２">その１７２</a>　　　鳩山やる夫（民主党）
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2430.html" target="_blank" title="その１７３">その１７３</a>　　　リリアーヌ【姫】（怪物王女）
+
+
+　　　　　　　　　　　　　ｹﾝｶﾞｸｶｲ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2438.html" target="_blank" title="その１７４">その１７４</a>　　　見学会めぐる（２ｃｈ）
+
+
+　　　　　　　　　　　　ｶﾂﾗ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2443.html" target="_blank" title="その１７５">その１７５</a>　　　桂　ヒナギク（ハヤテのごとく！）
+
+
+　　　　　　　　　　　　　ﾓｸﾞﾛ　ﾌｸｿﾞｳ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2457.html" target="_blank" title="その１７６">その１７６</a>　　　喪黒　福造（笑ゥせえるすまん）
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｱｲｻｶﾀｲｶﾞ　　　　　　　　　　ｻﾝｾﾞﾝｲﾝ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-783.html" target="_blank" title="番外編">番外編</a>　　　ルイズ（ゼロの使い魔）　　　逢坂大河（とらドラ！）　　　三千院ナギ（ハヤテのごとく！）　　　シャナ（灼眼のシャナ）
+
+
+
+
+　　　　　　　　　　　　　ﾉｳﾐ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｷﾉｼﾀﾋﾃﾞﾖｼ
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1697.html" target="_blank" title="超番外編">超番外編</a>　　　能美クドリャフカ（リトルバスターズ！）　　　　ポッチャマ（ポケットモンスター）　　　　木下秀吉（バカとテストと召喚獣）
+
+
+
+
+
+
+</p></blockquote>
+
+
+
+
+
+
+
+　　　　　　　　　　　　 　 ＿　_
+.　　　　　 　 　 　 　 , .:':{＠}:::..ヾ ヽ､
+　　 　 　 　 　 　 ／ ´ ~￣~ ｀ ヾ::.ヽ＼
+.　　　　　　　　r.//, 'ハ　　ﾊiﾚ7〃ヾ::.､ヽ
+.　　　　　　 　 Ｌl ! { ｀ヽヽノ　ノ　l/|　!:厶l　　　　　　　　　　以後続行中よぉ
+.　　　　 　 　 /Vi 小●　　　 ●　ﾉ ｌ下､_〕
+　　　 　 　 　 　 j||l⊃　r‐‐v　⊂⊃　i !__ﾄ
+　 　 　 　 /⌒ヽ__|ﾍ　　ヽ ノ 　 　j /⌒i !＿
+　　　　　　＼ /:::::|　l＞,､ __,　イァ/　 /│;; ::＼
+.　　　　　 　 /:::::/|　|:: :: ::{ 薔 }:{ﾍ､__∧ |⌒⌒
+　　　　 　 　 ＼< ＼|:: :: :: ∨:::/ヾ::: :: > |
+
+
+
+
+
+
+
+
+
+
+
+
+

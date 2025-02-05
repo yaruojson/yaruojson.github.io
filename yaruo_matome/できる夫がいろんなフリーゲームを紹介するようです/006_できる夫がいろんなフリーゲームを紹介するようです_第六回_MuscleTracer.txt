@@ -1,0 +1,437 @@
+1 ：<span style="color:#009900">名無しさん＠おーぷん</span> ：2016/02/19(金)20:26:43 <span style="color:#FF0000">ID:yaruo</span>
+
+
+
+
+    　　　　　　　　　　　　　 　 ∩＿
+    　　　　　　　　　　　　　　〈〈〈　ヽ
+    　　　　　　＿＿＿_　　　〈⊃　　}
+    　　　　 ／⌒　　⌒＼　　 |　　 |
+    　　　／（ ●） 　（●）＼　 !　　 !
+    　 ／ :::::　 　__´___　　:::::＼|　　 l
+    　 |　　　　　 `ー'´ 　 　 　 | 　／　　　できる夫と！
+    　 ＼ 　 　　　　　　 　 　／／
+    　　/　＿＿　 　　　　　　/
+    　　(＿＿＿）　　　　　　/
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ＿__
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ＿＿＿__//==/‐...　　　__
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　‐'　　／/;;/￣￣‐''￣ヽ￣ ヽ〕
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 （(-).／　.￣: 　　_（◎　〕〔〕___〕
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ／　　　 ;;　 /;;∴￣（(-)〕)￣)ﾉ
+    　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ビショップでおくる　　　　 　 　 /　　　　　　 .|Ｔ;∈・ヽ|| _|| _/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　　　　　　　＼;;|≡ /￣//_|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ヽ　　__　　　　: | |(-)/__//　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ＼ ヽ''‐..　:　 |_ Ｔ　/__ ￣
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 '‐_＼_|＼_/_(￣￣/￣/￣｡ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 |〔〕| ヽ＿_.ﾟ-".|〔〕 ||_/;) |　　 __
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 Ｔ_ヽ･ﾉヽ　 .__Ｔ_ヽ_｡ﾟ/＼　　/ /ﾟヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ＼;＼ ＼ // ;/ヽ_; ＼ .＼/ / ;/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 |_|｡)ヽ｡γ_/　(__〈｡)＼_｡|/ ;/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 〔_〕 /|＼/　　　〔_〕|_|/ /ヽ /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 〔〕/￣/　 　　　〔〕;;/ /　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 //　 . /　　　　　　 / .ヽ　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 //　　/　　　　　　 ./　/　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 _//　　/　　　　　 ／__/__/ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ／／　/_|　　　　　./--/　 /_/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 /||/　　/ |_|　　　　 |〔;;〕|;　/|_|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ／ヽ__(-)/ //　　　　　ヽ__(-)/ _||　　＿＿.―.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 __　.‐'＼_/｡ヽ__/;/　　　　＿ /_/;|/｡_|￣Ｙ;;;;;;;;; | ./ ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ヽ＼＿/￣ヽ￣ヽ＿_.―. ヽヽ_|-;＼_| |￣|｀--"￣ _―
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ＼_ヽ|＿＿|＿＿_＿_/　 ＼＿＿|_.〕￣/｀―"￣
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ￣　　　　　　　　　　　　　　　　 ￣
+
+
+
+
+
+    　　　　　 　　　　　　　　 ＿＿
+    .───┐　　　　　 ／　...::::::..＼
+    ￣￣￣| |　　　　 ／　　　...::::::::::.＼
+    　 　 　 | |　　　／　　　　　...:::::::::::::.＼　　　　　　できる夫がいろんなフリーゲームを紹介するようです。
+    　 　 　 | |　　　|　　　　　　...::::::::::::::::: |
+    　 　 　 | |.　　　＼､　　......::::::::::::::::::／　　　　　　第六回。
+    二二二 」　＿　＿ ゞ　　　　...:::::::丶
+    ─┴┐ ⊆ﾌ＿)＿_./ 　 　　┌ヽ　ヽ┐
+    二二二二二二ｌ　 /　 　　 　|　 | 　 | |
+    ＿l＿＿＿＿_| ／　　　　　　|＿| 　 |_|
+    　 |　　 　 　 ／　　__,　　　　ノ　 |─l
+    　 |───/　 ／lﾆ/　 　/二ﾆ　luul.
+    　 |　 　 ___|　　|　　|　　 |_|.
+    　└─（　　　　）(ﾆ|　　 |./二ﾆ)
+    　　　　　￣￣　　/　　 ）
+    　　　　　 　 　 　 ｀ー ´
+
+
+
+
+
+
+
+173 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:44:42 ID:Ap44ScGQ
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ＿__
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ＿＿＿__//==/‐...　　　__
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ‐'　　／/;;/￣￣‐''￣ヽ￣ ヽ〕
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 （(-).／　.￣: 　　_（◎　〕〔〕___〕
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ／　　　 ;;　 /;;∴￣（(-)〕)￣)ﾉ
+    　　　　　　　　　　　　 　 ヒャァ！我慢できねぇ！紹介だァ！....../　　　　　　 .|Ｔ;∈・ヽ|| _|| _/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |　　　　　　　＼;;|≡ /￣//_|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ヽ　　__　　　　: | |(-)/__//　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ＼ ヽ''‐..　:　 |_ Ｔ　/__ ￣
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 '‐_＼_|＼_/_(￣￣/￣/￣｡ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 |〔〕| ヽ＿_.ﾟ-".|〔〕 ||_/;) |　　 __
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 Ｔ_ヽ･ﾉヽ　 .__Ｔ_ヽ_｡ﾟ/＼　　/ /ﾟヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ＼;＼ ＼ // ;/ヽ_; ＼ .＼/ / ;/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 |_|｡)ヽ｡γ_/　(__〈｡)＼_｡|/ ;/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 〔_〕 /|＼/　　　〔_〕|_|/ /ヽ /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 〔〕/￣/　 　　　〔〕;;/ /　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 //　 . /　　　　　　 / .ヽ　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 //　　/　　　　　　 ./　/　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 _//　　/　　　　　 ／__/__/ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ／／　/_|　　　　　./--/　 /_/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 /||/　　/ |_|　　　　 |〔;;〕|;　/|_|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ／ヽ__(-)/ //　　　　　ヽ__(-)/ _||　　＿＿.―.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 __　.‐'＼_/｡ヽ__/;/　　　　＿ /_/;|/｡_|￣Ｙ;;;;;;;;; | ./ ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ヽ＼＿/￣ヽ￣ヽ＿_.―. ヽヽ_|-;＼_| |￣|｀--"￣ _―
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ＼_ヽ|＿＿|＿＿_＿_/　 ＼＿＿|_.〕￣/｀―"￣
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ￣　　　　　　　　　　　　　　　　 ￣
+
+
+
+
+175 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:45:02 ID:Ap44ScGQ
+
+
+
+
+
+    ビショップミニサイズ
+    　　　　↓
+    　（￣◯￣＼
+    　 (二0=| 二|　　　今回紹介するのは「MuscleTracer」！！
+    　　 ヽ_ｌ＿／
+    　　／／_〕
+    　 ヽ二ヽ ＼
+    ｌ二二二/二/
+
+
+
+
+    　 　　 ＿_＿__　　　　　━┓
+    　　 ／　―　　 ＼ 　　 ┏┛
+    　／ノ　　( ●)　　 ＼　 ・
+    .｜ ( ●)　 ,　　 　　　|
+    .｜　　　　　　　　 　 /　　　　どこかで聞いたことがあるような…？
+    .｜ 　　　　　'~　　　/
+    　＼＿　　　 ⊂ヽ∩＼
+    　　　/´　　 　 (,＿ ＼.＼
+    　 　 |　　/　　　　　＼＿ﾉ
+
+
+
+    公式Blog　「Bee Hive」
+
+ <a href="http://ttp://in000.blog96.fc2.com/" target="_blank" title="ttp://in000.blog96.fc2.com/">ttp://in000.blog96.fc2.com/</a>
+
+    最新Verは20110921版となっています。
+
+
+
+
+
+176 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:45:26 ID:Ap44ScGQ
+
+
+
+
+
+    　（￣◯￣＼　　　　　　「MuscleTracer」、略してMTだ。このゲームは有名なロボットゲーム。
+    　 (二0=| 二|
+    　　 ヽ_ｌ＿／　　　　　　アーマードコアの二次創作ゲームだ。もちろん日本語。
+    　　／／_〕
+    　 ヽ二ヽ ＼
+    ｌ二二二/二/
+
+
+
+
+    　　　　　　　　　　　 ＿＿＿_
+    　　　　　　　　 　 ／ 　 　 　 ＼
+    　　　.　　　　　／　＿,ﾉ　　⌒　＼
+    　　　　　　 ｌ^l^lｎ　 （●） 　（●）　＼
+    　　　　　 　ヽ 　 L　　 ､　｀　　 　 　　|　　　　　　作者様はニコニコ動画で製作動画を公開しています。
+    　　　　　　　 ゝ 　ﾉ　　 ￣￣　　 　／
+    　　　　　　／ 　 /　　　　　　　 　　＼　　 　　　　アカウントをもっていない方は「Nicozon」という場所でURLを入力してください。
+    　　　　 ／　　 /　　　　　　　　　 　 　＼
+    　　　. /　　 　/　　　　　　　　　-一'''''''ー-､.　　マイリストと呼ばれるところを開くだけならアカウントはいりません。
+    　　　人＿＿ﾉ　　　　　　　　(⌒＿(⌒)⌒)⌒))
+
+
+    タイトル画面
+
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/TaitoruMT.jpg" target="_blank"><img alt="TaitoruMT.jpg" border="0" height="298" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/TaitoruMTs.jpg" width="400"/></a>
+
+    nicozon
+
+ <a href="http://www.nicozon.net/" target="_blank" title="ttp://www.nicozon.net/">ttp://www.nicozon.net/</a>
+
+    作者様のマイリスト
+
+ <a href="http://www.nicovideo.jp/mylist/17664407" target="_blank" title="ttp://www.nicovideo.jp/mylist/17664407">ttp://www.nicovideo.jp/mylist/17664407</a>
+
+
+
+
+
+177 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:45:39 ID:Ap44ScGQ
+
+
+
+
+
+    　 　 　　　＿＿＿_
+    　 　　　／　　　　　＼
+    　　　／　＿,ﾉ　　⌒　＼　　　　　 　 　 　 　 必要スペックはCPUがCore2Duo以上を推奨。
+    　 ／ 　 （●） 　（●） 　 ＼
+    　｜　　　　　､　´　　 　 　 |　　(( ∩))　　　　ビデオカードはDirectX9.0c以上、Pixel Shader2.0以上
+    　　＼ 　　 　 ￣￣　　　／　　　 （　⌒）
+    　　／　　　　　　　　　　＼　　　　　　　　　　VRAMは128以上、推奨環境は256MBとなっています。
+
+
+
+
+    　　　　　　（￣◯￣＼　　　つまり3D ACTだ。
+    　　　　　　 (二0=| 二|
+    　　　　　　　 ヽ_ｌ＿／　　　アーマードコアの過去作でMTに乗ってみたかった方向けのゲームです。
+    　　　　　　　／／_〕
+    　　　　　　 ヽ二ヽ ＼　　　なのでわりともっさり。そこそこスタイリッシュ。
+    　　　　　ｌ二二二/二/
+
+
+
+
+
+178 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:46:05 ID:Ap44ScGQ
+
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　─　 　 ─　＼
+    　　　　／ 　 （●） 　（●）　 ＼
+    　　　　|　　　　　___'___　　 　　 | 　　　こちら、とにかく作者の愛が詰まってるというか詰まりすぎているというか。
+    　　　　 ＼　 　　`ー'´　　　 ,／
+    　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ　　　　 3Dモデル見ただけでビビる方もいらっしゃるんじゃないかな。
+    　 　　/ 　　　 　,⊆ニ_ヽ、　 |
+    　　　/　 　 ／　r─--⊃、 　|
+    　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+
+    ガレージ
+
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/garage.jpg" target="_blank"><img alt="garage.jpg" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/garages.jpg" width="400"/></a>
+
+
+    戦闘画面
+
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/sento-.jpg" target="_blank"><img alt="sento-.jpg" border="0" height="300" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/sento-s.jpg" width="389"/></a>
+
+
+
+    　（￣◯￣＼　　　　　ニコニコ動画では「野生のフロムソフトウェア」なるタグがついている。
+    　 (二0=| 二|
+    　　 ヽ_ｌ＿／　　　　　少々過剰表現では？と思わないこともないが、
+    　　／／_〕
+    　 ヽ二ヽ ＼　　　　　完成&amp;許可さえ取れればXBLAやSteam、PSPでのDL販売をしてもいいんじゃ？と思うレベルだ。
+    ｌ二二二/二/
+
+
+
+
+
+179 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:46:22 ID:Ap44ScGQ
+
+
+
+
+
+    　　 　 　 　　　＿＿＿
+    　　 　 　　　／　　　　 ＼
+    　　 　　　／　ノ　　　 ヽ　＼
+    　　　　／ 　 （●） 　（●） 　＼
+    　　 　 |　　　　　 　´　　　　　　|　　　　完成すれば…？
+    　　　　＼ 　　 　　⌒ 　　　　／
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+
+    　（￣◯￣＼　　　現在β版だ、それでも操作できるMTは8種類。僚機機能、簡易AIを僚機に搭載。
+    　 (二0=| 二|
+    　　 ヽ_ｌ＿／　　　陣形機能などすでに十分すぎるものとなっている。
+    　　／／_〕
+    　 ヽ二ヽ ＼　　　ミッションが3つだけなのと、セーブ&amp;ロード機能・ショップ機能が無いだけだ。
+    ｌ二二二/二/
+
+
+
+
+
+180 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:46:49 ID:Ap44ScGQ
+
+
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　　　　＼
+    　　　　　 ／　　⌒　　⌒　＼
+    　　　　／ 　 　（⌒）　 （⌒） ＼　　　とりあえず使用できるMTの画像を見てもらいましょうか。
+    　　 　 |　　 　　　　__´___　　　 |
+    　 　 　 ＼ 　 　 　 `ー'´　　,／　　　かなりワクワクしますよ。
+    　　　 　 /⌒ヽ 　　　　　　　ｨヽ
+    　 　 　 / rｰ'ゝ　　　　　　　〆ヽ
+    　　　　/,ﾉヾ　,>　　　　　　ヾ_ノ,|
+    　　　　|　ヽ〆 　 　 　 　 　 |´　|
+
+    WK750R
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/WK750R.jpg" target="_blank"><img alt="WK750R.jpg" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/WK750Rs.jpg" width="400"/></a>
+
+
+    ビショップ
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/Bishop.jpg" target="_blank"><img alt="Bishop.jpg" border="0" height="291" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/Bishops.jpg" width="399"/></a>
+
+
+    ジャベリン
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/Javelin.jpg" target="_blank"><img alt="Javelin.jpg" border="0" height="292" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/Javelins.jpg" width="399"/></a>
+
+
+    ミミー
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/mimi-.jpg" target="_blank"><img alt="mimi-.jpg" border="0" height="295" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/mimi-s.jpg" width="400"/></a>
+
+
+    ワスプ
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/wasp.jpg" target="_blank"><img alt="wasp.jpg" border="0" height="295" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/wasps.jpg" width="400"/></a>
+
+
+    スティングバグ
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/stingbug.jpg" target="_blank"><img alt="stingbug.jpg" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/stingbugs.jpg" width="400"/></a>
+
+
+    ワールウインド
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/WHIRLWIND.jpg" target="_blank"><img alt="WHIRLWIND.jpg" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/WHIRLWINDs.jpg" width="400"/></a>
+
+
+    ライトニング
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/Lightning.jpg" target="_blank"><img alt="Lightning.jpg" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/Lightnings.jpg" width="400"/></a>
+
+
+
+
+
+
+181 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:47:18 ID:Ap44ScGQ
+
+
+
+
+
+    　 　 　 　 ＿＿＿_
+    　 　 　 ／　　　　　＼
+    　 　 ／　 - 　　　　- ＼
+    　 ／ 　 （●） 　（一） 　＼　　　現在存在するミッションは三種類。
+    　|　　　　　 __´___　　　　　|
+    　＼ 　　 　 `ー'´ 　　　 ／　　　vs固定砲台、vs旧式のガードメカ「クルセイダー」、vs改造した工作機械です。
+    　/　　　　 ∩ノ ⊃ 　 ／
+    　(　 ＼　／ ＿ノ　|　 |
+    .　＼　“　　／＿＿|　 |
+    　　　＼ ／＿＿＿ ／
+
+
+
+    　　　　（￣◯￣＼
+    　　　　 (二0=| 二|　　　ガレージのテストモードも存在はするが、操作できるMT同士の戦いは存在しないのが残念なところ。
+    　　　　　 ヽ_ｌ＿／
+    　　　　　／／_〕　　　　作者様はMTの追加のほうに力を入れているらしく、最近はTwitterでサガルマタの3DモデルCGをあげていた。
+    　　　　 ヽ二ヽ ＼
+    　　　ｌ二二二/二/
+
+
+
+
+
+182 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:47:42 ID:Ap44ScGQ
+
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼　　フォーメーションやAIの設定は単純とはいえセーブ機能がちょっと欲しくなったり…。
+    　　 　 |　　　　　 __´___　　　　　|
+    　　　　＼ 　　 　 `ー'´ 　　　／
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+    　（￣◯￣＼　　　β版ゆえあまり長時間遊ぶような想定はされていないのが残念かな。
+    　 (二0=| 二|
+    　　 ヽ_ｌ＿／　　　ミッション数が少ないから当然といえば当然ですが、完成が待ち遠しいです。
+    　　／／_〕
+    　 ヽ二ヽ ＼
+    ｌ二二二/二/
+
+
+
+
+
+183 ：<span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span>：2012/05/19(土) 23:47:55 ID:Ap44ScGQ
+
+
+
+
+
+    　 　 　 　 ＿＿＿_
+    　 　 　 ／　　　　　＼
+    　 　 ／　 - 　　　　- ＼
+    　 ／ 　 （一） 　（一） 　＼　　　　そのあたりは個人製作だから仕方ないですよね。製作期間はすでに二年目に突入しています。
+    　|　　　　　 __´___　　　　　|
+    　＼ 　　 　 `ー'´ 　　　 ／　　　　>>1が初めて遊んだときは僚機機能どころかミッションが存在していたか…記憶があやふやです。
+    　/　　　　 ∩ノ ⊃ 　 ／
+    　(　 ＼　／ ＿ノ　|　 |
+    .　＼　“　　／＿＿|　 |
+    　　　＼ ／＿＿＿ ／
+
+
+
+    　（￣◯￣＼
+    　 (二0=| 二|　　　　それっぽいBGMも手作りというからただただ驚くほかないな。
+    　　 ヽ_ｌ＿／
+    　　／／_〕　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 _ｎ_,､ 　 .　 　 _ ｎ＿　　　　　 ｎ ｎ
+    　 ヽ二ヽ ＼　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 └i rﾍ〉　　　　l ﾘ r┐|　　　　...ｌ｣ l l
+    ｌ二二二/二/　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 （才Ｐ_）　　　 └1」 L｣　　 　 　 .rリ
+
+
+
+
+
+
+    アーマードコアの二次創作ゲーム、「Muscle Tracer」の紹介でした。
+    本作はゲームパッドでプレイが可能です。PS2コンコンバータを持っている方はジョイスティックを使うことも可能。
+    デフォルトでAC用の設定になってるので既プレイの方はスっと入っていけるはず
+    知らない方は置いてけぼりですね。
+
+    また、Readmeは読んでください。VC90ランタイムというものが必要になります。
+
+    サクっと楽しめる内容量です。のり塩味。 
+
+
+
+
