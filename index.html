@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>Repository Explorer</title>
+  <title>AA長編まとめサイト</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -27,7 +27,7 @@
   </style>
 </head>
 <body>
-  <h1>リポジトリエクスプローラ</h1>
+  <h1>AA長編まとめサイト</h1>
   <div id="tree">読み込み中…</div>
 
   <script>
@@ -41,8 +41,10 @@
       .then(response => response.json())
       .then(data => {
         if (data.tree) {
+          // 「index.html」を除外したリストを作成
+          const filteredTree = data.tree.filter(item => item.path !== "index.html");
           // フラットなリストからツリー構造のオブジェクトに変換
-          const treeData = buildTree(data.tree);
+          const treeData = buildTree(filteredTree);
           // ツリーをHTMLとして描画
           const treeContainer = document.getElementById("tree");
           treeContainer.innerHTML = "";
@@ -96,10 +98,10 @@
           li.appendChild(span);
           li.appendChild(renderTree(item.__children));
         } else {
-          // ファイルの場合、リンクを設定（同一リポジトリ内のパスへ）
+          // ファイルの場合、リンクを設定
           const a = document.createElement("a");
           a.textContent = key;
-          // リンク先はGitHub Pages上の相対パスになるので、"./"を付加
+          // リンク先はGitHub Pages上の相対パス（ルートからのパス）
           a.href = "./" + item.__data.path;
           a.classList.add("file");
           li.appendChild(a);
@@ -109,5 +111,25 @@
       return ul;
     }
   </script>
+  <br>【説明】：<br>
+   当サイトは2chのAA長編作品を記事にまとめて報道、紹介するサイトです。<br>
+  ノンジャンルで、管理人の気になったスレを編集し、紹介しています。<br>
+  <br>
+【各権利等について】 <br>
+当サイトで紹介している記事は全て２ちゃんねるからの引用転載となります。 <br>
+<br>
+当サイトで掲載、配信している動画及び画像の著作権または肖像権等は各権利所有者に帰属致します。 <br>
+このサイトは著作権の侵害を目的としたサイトではありません。 <br>
+<br>
+また、各権利者、第三者に不利益が及ぶことのないよう最大限注意しておりますが <br>
+もし掲載に問題がある事がありましたらお手数ですがメールでご連絡下さい。 <br>
+最大限、迅速に対応を取らせて頂きます。 <br>
+<br>
+【問い合わせなど】 <br>
+メール頂ければ対応します。 <br>
+<br>
+<br>
+【連絡先】 <br>
+yaruojson@gmail.com <br>
 </body>
 </html>
