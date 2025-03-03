@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>リポジトリエクスプローラ</title>
+  <style>
+    /* 基本のスタイル */
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 20px;
+    }
+    li {
+      line-height: 1.5;
+    }
+    .folder > .folder-name {
+      cursor: pointer;
+      font-weight: bold;
+    }
+    .folder::before {
+      content: "📁 ";
+    }
+    .file a::before {
+      content: "📄 ";
+    }
+  </style>
+</head>
+<body>
+  <h1>リポジトリエクスプローラ</h1>
+  <div id="tree">読み込み中...</div>
+
+  <script>
+    // --- 設定部分 --- 
+    // 以下の変数をあなたのリポジトリ情報に合わせて変更してください
+    const owner = "yaruojson";         // GitHubのユーザー名または組織名
+    const repo = "yaruojson.github.io";     // リポジトリ名
+    const branch = "main";                   // 対象ブランチ（例："main"または"master"）
+
+    // GitHub API を使ってリポジトリツリー（再帰的）を取得
+    const apiUrl = `https://api.github.com/repos/${owner}/${repo}/git/trees/${branch}?recursive=1`;
+
+    // APIから取得してツリー構造を作成する
+    fetch(apiUrl)
+      .then(response => response.json())
+      .then(data => {
+        // data.tree は全ファイル・フォルダのフラットなリスト
+        const tree = data.tree;
+
+        // フォルダ階層構造へ変換する
+        let treeStructure = {};
+        tree.forEach(item => {
+          const parts = item.path.split('/');
+          let current = treeStructure;
+          for (let i = 0; i < parts.length; i++) {
+            const part = parts[i];
+            // 最終要素ならばファイル(blob)またはフォルダ(tree)として設定
+            if (i === parts.length - 1) {
+              current[part] = { type: item.type, path: item.path };
+            } else {
+              if (!current[part]) {
+                current[part] = { type: "tree", children: {} };
+              }
+              current = current[part].children;
+            }
+          }
+        });
+
+        // ツリー構造を元にHTMLリストを生成
+        const treeContainer = document.getElementById('tree');
+        treeContainer.innerHTML = "";
+        treeContainer.appendChild(createList(treeStructure));
+      })
+      .catch(error => {
+        console.error("リポジトリツリー取得エラー:", error);
+        document.getElementById('tree').textContent = "リポジトリ情報の取得に失敗しました。";
+      });
+
+    // 再帰的にHTMLのリスト（ul/li）を生成する関数
+    function createList(obj) {
+      const ul = document.createElement('ul');
+      for (let key in obj) {
+        const li = document.createElement('li');
+        // フォルダの場合
+        if (obj[key].type === "tree") {
+          li.classList.add("folder");
+
+          // フォルダ名を span でラップしクリックで中身の表示/非表示を切り替え
+          const span = document.createElement('span');
+          span.textContent = key;
+          span.classList.add("folder-name");
+          li.appendChild(span);
+
+          // 子要素リストを生成し、初期表示は展開状態（必要に応じて "none" に変更可能）
+          const childUl = createList(obj[key].children);
+          li.appendChild(childUl);
+
+          // クリックイベント：子リストの表示切替
+          span.addEventListener('click', (event) => {
+            if (childUl.style.display === "none") {
+              childUl.style.display = "block";
+            } else {
+              childUl.style.display = "none";
+            }
+            event.stopPropagation();
+          });
+        }
+        // ファイルの場合
+        else if (obj[key].type === "blob") {
+          li.classList.add("file");
+          const a = document.createElement('a');
+          a.textContent = key;
+          // GitHub上のファイル表示ページへリンク（必要に応じて Raw ファイルURL等に変更可）
+          a.href = `https://github.com/${owner}/${repo}/blob/${branch}/${obj[key].path}`;
+          a.target = "_blank";
+          li.appendChild(a);
+        }
+        ul.appendChild(li);
+      }
+      return ul;
+    }
+  </script>
+</body>
+</html>
